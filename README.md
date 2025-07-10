@@ -12,9 +12,9 @@
 -📫 Reach me:
 - Email: jaybright212@gmail.com | xtremebus212@gmail.com
 - Socials: @techoracleofficial on TikTok, IG, and X (Twitter)
-- Linkedin:  
+- Linkedin: www.linkedin.com/in/john-jacob-689b54334
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am an hardworkig lazy person 
+- ⚡ Fun fact: I'm on a mission to make the internet a safer place, one vulnerability at a time. I'm not perfect but i will keep showing up and pushing forward
 
 <!---
 Theoracle07/Theoracle07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
