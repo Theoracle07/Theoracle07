@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Theoracle07
-- 👀 I’m interested in cyber security,coding,web development 
-- 🌱 I’m currently learning cyber security🔐, web development👨🏾‍💻 and AI 🤖 
-- 💞️ I’m looking to collaborate on an web development, solutions on solving real life Internet Attacks 
-- 📫 How to reach me: via email: jaybright212@gmail.com,xtremebus212@gmail.com via social media handle: X,IG, Tiktok: @techoracleofficial
+- 👋 Hi, I’m Jacob John also known as Tech_Oracle.
+- 👀 I’m passionate about Web Application Security and currently training to become a SOC Analyst.
+- 🌱I'm actively learning through platforms like PortSwigger Academy, Cybrary, and real-world labs, focusing on:
+- API & authentication security
+- Web vulnerability testing
+- Threat detection & log analysis
+- I’m building open-source tools and working on projects that simplify how we test and defend websites from real-world attacks.
+ I’m open to collaborating on:
+- Web security research
+- Cyber defense projects
+- Awareness campaigns and learning communities
+-📫 Reach me:
+- Email: jaybright212@gmail.com | xtremebus212@gmail.com
+- Socials: @techoracleofficial on TikTok, IG, and X (Twitter)
+- Linkedin:  
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am an hardworkig lazy person 
 
