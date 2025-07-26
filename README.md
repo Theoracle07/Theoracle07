@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob John also known as Tech_Oracle.
-- 👀 I’m passionate about Web Application Security and currently training to become a SOC Analyst.
+- 👀 I’m passionate about Web Application Security and currently training to become an SOC Analyst.
 - 🌱I'm actively learning through platforms like PortSwigger Academy, Cybrary, and real-world labs, focusing on:
 - API & authentication security
 - Web vulnerability testing
