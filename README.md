@@ -8,6 +8,7 @@
 - Username enumeration & Brute force attack.
 2. Digital Forensics 
 - Android Forensics 
+- CCTV & DVR Forensics
 - Malware Analysis and Network Forensics 
 - Cloud and social media forensics 
 3. Security Awareness 
