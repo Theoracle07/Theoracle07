@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacob John also known as Tech_Oracle.
+- 👋 Hi, I’m Jacob John.
 - 👀 I’m passionate about the Computer Security and Computer Troubleshooting currently in training to become an SOC Engineer.
 - 🌱I'm actively learning through platforms like PortSwigger Academy, Cybrary, and real-world labs,and Cisco networking Academy focusing on:
 1. Website Security 
